@@ -13,6 +13,7 @@
 		EBD356971FE8EAE600DFC54C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBD356961FE8EAE600DFC54C /* Assets.xcassets */; };
 		EBD3569A1FE8EAE600DFC54C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBD356981FE8EAE600DFC54C /* LaunchScreen.storyboard */; };
 		EBD3569D1FE8EAE600DFC54C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD3569C1FE8EAE600DFC54C /* main.m */; };
+		EBD356A51FE8EB0900DFC54C /* VC1.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD356A41FE8EB0900DFC54C /* VC1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		EBD356991FE8EAE600DFC54C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EBD3569B1FE8EAE600DFC54C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBD3569C1FE8EAE600DFC54C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EBD356A31FE8EB0900DFC54C /* VC1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VC1.h; sourceTree = "<group>"; };
+		EBD356A41FE8EB0900DFC54C /* VC1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VC1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				EBD3568E1FE8EAE600DFC54C /* AppDelegate.m */,
 				EBD356901FE8EAE600DFC54C /* ViewController.h */,
 				EBD356911FE8EAE600DFC54C /* ViewController.m */,
+				EBD356A31FE8EB0900DFC54C /* VC1.h */,
+				EBD356A41FE8EB0900DFC54C /* VC1.m */,
 				EBD356931FE8EAE600DFC54C /* Main.storyboard */,
 				EBD356961FE8EAE600DFC54C /* Assets.xcassets */,
 				EBD356981FE8EAE600DFC54C /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 			files = (
 				EBD356921FE8EAE600DFC54C /* ViewController.m in Sources */,
 				EBD3569D1FE8EAE600DFC54C /* main.m in Sources */,
+				EBD356A51FE8EB0900DFC54C /* VC1.m in Sources */,
 				EBD3568F1FE8EAE600DFC54C /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
