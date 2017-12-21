@@ -10,4 +10,6 @@
 
 @interface VC3 : UIViewController
 
+- (void)newFunction;
+
 @end
