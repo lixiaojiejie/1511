@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EBC75C1B1FEB84060043B21F /* VC3.m in Sources */ = {isa = PBXBuildFile; fileRef = EBC75C1A1FEB84060043B21F /* VC3.m */; };
+		EBC75C1E1FEB86360043B21F /* VC4.m in Sources */ = {isa = PBXBuildFile; fileRef = EBC75C1D1FEB86360043B21F /* VC4.m */; };
 		EBD3568F1FE8EAE600DFC54C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD3568E1FE8EAE600DFC54C /* AppDelegate.m */; };
 		EBD356921FE8EAE600DFC54C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD356911FE8EAE600DFC54C /* ViewController.m */; };
 		EBD356951FE8EAE600DFC54C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBD356931FE8EAE600DFC54C /* Main.storyboard */; };
@@ -20,6 +21,8 @@
 /* Begin PBXFileReference section */
 		EBC75C191FEB84060043B21F /* VC3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VC3.h; sourceTree = "<group>"; };
 		EBC75C1A1FEB84060043B21F /* VC3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VC3.m; sourceTree = "<group>"; };
+		EBC75C1C1FEB86360043B21F /* VC4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VC4.h; sourceTree = "<group>"; };
+		EBC75C1D1FEB86360043B21F /* VC4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VC4.m; sourceTree = "<group>"; };
 		EBD3568A1FE8EAE600DFC54C /* 1511.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1511.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBD3568D1FE8EAE600DFC54C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EBD3568E1FE8EAE600DFC54C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 				EBD356A41FE8EB0900DFC54C /* VC1.m */,
 				EBC75C191FEB84060043B21F /* VC3.h */,
 				EBC75C1A1FEB84060043B21F /* VC3.m */,
+				EBC75C1C1FEB86360043B21F /* VC4.h */,
+				EBC75C1D1FEB86360043B21F /* VC4.m */,
 				EBD356931FE8EAE600DFC54C /* Main.storyboard */,
 				EBD356961FE8EAE600DFC54C /* Assets.xcassets */,
 				EBD356981FE8EAE600DFC54C /* LaunchScreen.storyboard */,
@@ -155,6 +160,7 @@
 				EBD356921FE8EAE600DFC54C /* ViewController.m in Sources */,
 				EBC75C1B1FEB84060043B21F /* VC3.m in Sources */,
 				EBD3569D1FE8EAE600DFC54C /* main.m in Sources */,
+				EBC75C1E1FEB86360043B21F /* VC4.m in Sources */,
 				EBD356A51FE8EB0900DFC54C /* VC1.m in Sources */,
 				EBD3568F1FE8EAE600DFC54C /* AppDelegate.m in Sources */,
 			);
